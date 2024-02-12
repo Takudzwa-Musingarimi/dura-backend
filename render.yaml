@@ -1,7 +1,7 @@
 databases:
   - name: dura-database
-    databaseName: dura_database
-    user: dura_database_user
+    databaseName: dura_7pfx
+    user: dura_7pfx_user
 
 services:
   - type: web
